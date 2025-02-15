@@ -1,0 +1,5 @@
+MAS hegemony {
+    environment: HegemonyEnv
+
+    agents: classeMedia; classeCapitalista; classeOperaia; stato;
+}
