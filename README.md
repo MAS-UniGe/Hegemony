@@ -1,7 +1,6 @@
-This project has been created by Marco Monteverde for the lab part of
-"Symbolic & Distributed AI" and "Natural Language Processing" courses
-of the master degree progam in Computer Science at University of Genoa
-(UniGe), academic year 2024/2025.
+## Individual Project for the Symbolic and Distributed AI & Natural Language Processing courses, University of Genova, IT 
+## Author: Marco Monteverde
+## Teacher: Viviana Mascardi
 
 -----------------------------------------------------------------------
 
